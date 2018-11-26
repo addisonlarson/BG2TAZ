@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543250699342.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1202328375",
+    "id" : "16BA1C06",
+    "lastKnownWriteTime" : 1543250771,
+    "last_content_update" : 1543250771860,
+    "path" : "D:/alarson/BG2TAZ/BG2TAZ/create_xwalk.R",
+    "project_path" : "create_xwalk.R",
+    "properties" : {
+        "cursorPosition" : "20,19",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
